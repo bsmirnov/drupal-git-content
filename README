@@ -1,0 +1,5 @@
+Idea is to use git repository as a content storage engine. This may afford several benefits. 
+- Decoupling content from the cms which and configuration
+- Allowing collaborative tool independent editing of content
+- Being able to link to content repository and have the content appear, easyi(er) content migrations
+
